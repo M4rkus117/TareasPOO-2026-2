@@ -6,4 +6,5 @@ public class pruebasT10 {
         //VentanaBorderLayout ventana2=new VentanaBorderLayout();
         VentanaGridLayout ventana3=new VentanaGridLayout();
     }
+
 }
