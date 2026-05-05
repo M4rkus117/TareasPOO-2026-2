@@ -1,4 +1,4 @@
-package tareasPOO.t12;
+package main.java.Ejercicios.mx.unam.fesa.ico.t12;
 
 import javax.swing.*;
 import java.awt.*;

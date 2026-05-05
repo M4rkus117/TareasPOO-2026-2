@@ -1,4 +1,4 @@
-package tareasPOO.t11;
+package main.java.Ejercicios.mx.unam.fesa.ico.t11;
 
 import org.w3c.dom.Text;
 
@@ -55,5 +55,6 @@ public class VentanaCalculadoraIMC extends Frame {
         add(entrada2);
         add(bot1);
         add(resultado);
+        pack();
     }
 }

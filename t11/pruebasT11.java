@@ -1,4 +1,4 @@
-package tareasPOO.t11;
+package main.java.Ejercicios.mx.unam.fesa.ico.t11;
 
 public class pruebasT11 {
     public static void main() {
