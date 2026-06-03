@@ -2,6 +2,6 @@ package tareasPOO.t12;
 
 public class pruebasVentanaSwing {
     static void main() {
-        VentanaSwing vswing=new VentanaSwing();
+        tareasPOO.t12.VentanaSwing vswing=new tareasPOO.t12.VentanaSwing();
     }
 }

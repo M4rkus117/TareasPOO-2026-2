@@ -36,6 +36,6 @@ public class Vehiculo {
                 '}';
     }
     public void mostrarInformmacion(){
-        System.out.println("Marca: " + this.marca + ". Modelo: " + this.modelo);
+        System.out.println("Marca: " + this.marca + ". ModeloTablaYugi: " + this.modelo);
     }
 }

@@ -42,7 +42,7 @@ public class VentanaPrincipal5 extends JFrame {
         lblSalida = new JLabel("");
         lblMarca = new JLabel("Marca: ");
         txtMarca = new JTextField(30);
-        lblModelo = new JLabel("Modelo: ");
+        lblModelo = new JLabel("ModeloTablaYugi: ");
         txtModelo = new JTextField(30);
         btnAgregarPhone = new JButton("Agregar");
         lblPrecio = new JLabel("Precio: $");

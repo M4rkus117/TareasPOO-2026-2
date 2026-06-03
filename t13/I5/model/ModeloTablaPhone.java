@@ -29,7 +29,7 @@ public class ModeloTablaPhone implements TableModel {
                 columnName = "Marca";
                 break;
             case  1:
-                columnName = "Modelo";
+                columnName = "ModeloTablaYugi";
                 break;
             case 2:
                 columnName = "Precio";
